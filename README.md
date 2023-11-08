@@ -1,4 +1,2 @@
 # Novauth
- Assignment using playfab for authentication.
- Novaborn 2 Experiment #2
- sachihowolfy.github.io/Novauth/
+ Assignment using playfab for authentication. Novaborn Experiment#2
